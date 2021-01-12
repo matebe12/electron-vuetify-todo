@@ -39,7 +39,7 @@ export default {
 }
 </script>
 
-<style scioed>
+<style scoped>
 .listdiv {
     position: absolute;
     width: 40%;
